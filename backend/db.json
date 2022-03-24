@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "id": 2,
+      "name": "Vilani Gomes",
+      "email": "vilani@react.com.br"
+    },
+    {
+      "name": "Carlos Eduardo",
+      "email": "dudu@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "NegaoDoCongo11",
+      "email": "cdgomessantana@gmail.com",
+      "id": 4
+    }
+  ]
+}
